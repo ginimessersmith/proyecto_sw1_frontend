@@ -1,0 +1,64 @@
+"filename", "language", "HTML", "JavaScript JSX", "JavaScript", "Properties", "CSS", "JSON", "XML", "Markdown", "comment", "blank", "total"
+"d:\Software 1\Proyecto Final\traductor-IA\.env", "Properties", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Software 1\Proyecto Final\traductor-IA\.eslintrc.cjs", "JavaScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 1, 21
+"d:\Software 1\Proyecto Final\traductor-IA\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 5, 0, 4, 9
+"d:\Software 1\Proyecto Final\traductor-IA\index.html", "HTML", 24, 0, 0, 0, 0, 0, 0, 0, 0, 2, 26
+"d:\Software 1\Proyecto Final\traductor-IA\package-lock.json", "JSON", 0, 0, 0, 0, 0, 4789, 0, 0, 0, 1, 4790
+"d:\Software 1\Proyecto Final\traductor-IA\package.json", "JSON", 0, 0, 0, 0, 0, 38, 0, 0, 0, 1, 39
+"d:\Software 1\Proyecto Final\traductor-IA\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\Software 1\Proyecto Final\traductor-IA\src\TraductorApp.jsx", "JavaScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 4, 2, 17
+"d:\Software 1\Proyecto Final\traductor-IA\src\api\index.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"d:\Software 1\Proyecto Final\traductor-IA\src\api\traslateApi.js", "JavaScript", 0, 0, 14, 0, 0, 0, 0, 0, 1, 5, 20
+"d:\Software 1\Proyecto Final\traductor-IA\src\auth\context\AuthContext.jsx", "JavaScript JSX", 0, 17, 0, 0, 0, 0, 0, 0, 0, 7, 24
+"d:\Software 1\Proyecto Final\traductor-IA\src\auth\layout\AuthLayout.jsx", "JavaScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 1, 1, 37
+"d:\Software 1\Proyecto Final\traductor-IA\src\auth\pages\LoginPage.jsx", "JavaScript JSX", 0, 59, 0, 0, 0, 0, 0, 0, 2, 14, 75
+"d:\Software 1\Proyecto Final\traductor-IA\src\auth\pages\RegisterPage.jsx", "JavaScript JSX", 0, 109, 0, 0, 0, 0, 0, 0, 2, 16, 127
+"d:\Software 1\Proyecto Final\traductor-IA\src\auth\pages\index.js", "JavaScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2
+"d:\Software 1\Proyecto Final\traductor-IA\src\auth\routes\AuthRoutes.jsx", "JavaScript JSX", 0, 8, 0, 0, 0, 0, 0, 0, 3, 1, 12
+"d:\Software 1\Proyecto Final\traductor-IA\src\context\SocketContext.jsx", "JavaScript JSX", 0, 23, 0, 0, 0, 0, 0, 0, 0, 8, 31
+"d:\Software 1\Proyecto Final\traductor-IA\src\css\chat.css", "CSS", 0, 0, 0, 0, 204, 0, 0, 0, 0, 40, 244
+"d:\Software 1\Proyecto Final\traductor-IA\src\helpers\getEnvVariables.js", "JavaScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\Software 1\Proyecto Final\traductor-IA\src\helpers\index.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"d:\Software 1\Proyecto Final\traductor-IA\src\hook\index.js", "JavaScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3
+"d:\Software 1\Proyecto Final\traductor-IA\src\hook\useAuthStore.js", "JavaScript", 0, 0, 61, 0, 0, 0, 0, 0, 22, 9, 92
+"d:\Software 1\Proyecto Final\traductor-IA\src\hook\useForm.js", "JavaScript", 0, 0, 43, 0, 0, 0, 0, 0, 0, 11, 54
+"d:\Software 1\Proyecto Final\traductor-IA\src\hook\useSocket.js", "JavaScript", 0, 0, 28, 0, 0, 0, 0, 0, 0, 8, 36
+"d:\Software 1\Proyecto Final\traductor-IA\src\index.css", "CSS", 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3
+"d:\Software 1\Proyecto Final\traductor-IA\src\main.jsx", "JavaScript JSX", 0, 16, 0, 0, 0, 0, 0, 0, 0, 2, 18
+"d:\Software 1\Proyecto Final\traductor-IA\src\router\AppRouter.jsx", "JavaScript JSX", 0, 33, 0, 0, 0, 0, 0, 0, 9, 7, 49
+"d:\Software 1\Proyecto Final\traductor-IA\src\store\auth\authSlice.js", "JavaScript", 0, 0, 30, 0, 0, 0, 0, 0, 0, 2, 32
+"d:\Software 1\Proyecto Final\traductor-IA\src\store\auth\index.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"d:\Software 1\Proyecto Final\traductor-IA\src\store\index.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"d:\Software 1\Proyecto Final\traductor-IA\src\store\store.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 0, 1, 2, 10
+"d:\Software 1\Proyecto Final\traductor-IA\src\theme\AppTheme.jsx", "JavaScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"d:\Software 1\Proyecto Final\traductor-IA\src\theme\colorTheme.js", "JavaScript", 0, 0, 29, 0, 0, 0, 0, 0, 0, 1, 30
+"d:\Software 1\Proyecto Final\traductor-IA\src\theme\index.js", "JavaScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\ChatSelect.jsx", "JavaScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\IncomingMessage.jsx", "JavaScript JSX", 0, 17, 0, 0, 0, 0, 0, 0, 0, 2, 19
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\Messages.jsx", "JavaScript JSX", 0, 65, 0, 0, 0, 0, 0, 0, 2, 12, 79
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\OutgoingMessage.jsx", "JavaScript JSX", 0, 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\SendMessage.jsx", "JavaScript JSX", 0, 30, 0, 0, 0, 0, 0, 0, 2, 6, 38
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\index.js", "JavaScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\LongMenu.jsx", "JavaScript JSX", 0, 59, 0, 0, 0, 0, 0, 0, 1, 5, 65
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\NavBar.jsx", "JavaScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 4, 25
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Navegation\NavegationMenu.jsx", "JavaScript JSX", 0, 61, 0, 0, 0, 0, 0, 0, 2, 8, 71
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\InboxPeople.jsx", "JavaScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 4, 14
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\Searchbox.jsx", "JavaScript JSX", 0, 36, 0, 0, 0, 0, 0, 0, 5, 5, 46
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\SideBar.jsx", "JavaScript JSX", 0, 37, 0, 0, 0, 0, 0, 0, 1, 8, 46
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\SidebarChat.jsx", "JavaScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 2, 3, 55
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\index.js", "JavaScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\index.js", "JavaScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\index.js", "JavaScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 1, 5
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\layout\AdminLayout.jsx", "JavaScript JSX", 0, 43, 0, 0, 0, 0, 0, 0, 80, 15, 138
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\layout\TraductorLayout.jsx", "JavaScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 4, 25
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\layout\index.js", "JavaScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\AdminPage.jsx", "JavaScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\PaymentPage.jsx", "JavaScript JSX", 0, 86, 0, 0, 0, 0, 0, 0, 0, 21, 107
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\TraductorPage.jsx", "JavaScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\UsersPage.jsx", "JavaScript JSX", 0, 66, 0, 0, 0, 0, 0, 0, 0, 8, 74
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\index.js", "JavaScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4
+"d:\Software 1\Proyecto Final\traductor-IA\src\traductor\routes\TraductorRoutes.jsx", "JavaScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"d:\Software 1\Proyecto Final\traductor-IA\src\ui\components\CheckingAuth.jsx", "JavaScript JSX", 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 24
+"d:\Software 1\Proyecto Final\traductor-IA\src\ui\index.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"d:\Software 1\Proyecto Final\traductor-IA\vite.config.js", "JavaScript", 0, 0, 5, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 24, 1000, 277, 1, 207, 4827, 1, 5, 141, 272, 6755

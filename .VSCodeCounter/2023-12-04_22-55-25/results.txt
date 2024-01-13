@@ -1,0 +1,125 @@
+Date : 2023-12-04 22:55:25
+Directory : d:\Software 1\Proyecto Final\traductor-IA
+Total : 62 files,  6342 codes, 141 comments, 272 blanks, all 6755 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          2 |      4,827 |          0 |          2 |      4,829 |
+| JavaScript JSX |         30 |      1,000 |        116 |        181 |      1,297 |
+| JavaScript     |         24 |        277 |         25 |         43 |        345 |
+| CSS            |          2 |        207 |          0 |         40 |        247 |
+| HTML           |          1 |         24 |          0 |          2 |         26 |
+| Markdown       |          1 |          5 |          0 |          4 |          9 |
+| Properties     |          1 |          1 |          0 |          0 |          1 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                |         62 |      6,342 |        141 |        272 |      6,755 |
+| . (Files)                                                                                        |          7 |      4,882 |          1 |         11 |      4,894 |
+| public                                                                                           |          1 |          1 |          0 |          0 |          1 |
+| src                                                                                              |         54 |      1,459 |        140 |        261 |      1,860 |
+| src (Files)                                                                                      |          3 |         30 |          4 |          4 |         38 |
+| src\api                                                                                          |          2 |         15 |          1 |          5 |         21 |
+| src\auth                                                                                         |          6 |        230 |          8 |         39 |        277 |
+| src\auth\context                                                                                 |          1 |         17 |          0 |          7 |         24 |
+| src\auth\layout                                                                                  |          1 |         35 |          1 |          1 |         37 |
+| src\auth\pages                                                                                   |          3 |        170 |          4 |         30 |        204 |
+| src\auth\routes                                                                                  |          1 |          8 |          3 |          1 |         12 |
+| src\context                                                                                      |          1 |         23 |          0 |          8 |         31 |
+| src\css                                                                                          |          1 |        204 |          0 |         40 |        244 |
+| src\helpers                                                                                      |          2 |          7 |          0 |          1 |          8 |
+| src\hook                                                                                         |          4 |        135 |         22 |         28 |        185 |
+| src\router                                                                                       |          1 |         33 |          9 |          7 |         49 |
+| src\store                                                                                        |          4 |         39 |          1 |          4 |         44 |
+| src\store (Files)                                                                                |          2 |          8 |          1 |          2 |         11 |
+| src\store\auth                                                                                   |          2 |         31 |          0 |          2 |         33 |
+| src\theme                                                                                        |          3 |         42 |          0 |          3 |         45 |
+| src\traductor                                                                                    |         25 |        680 |         95 |        118 |        893 |
+| src\traductor (Files)                                                                            |          1 |          4 |          0 |          1 |          5 |
+| src\traductor\components                                                                         |         15 |        423 |         15 |         62 |        500 |
+| src\traductor\components (Files)                                                                 |          4 |         97 |          1 |         12 |        110 |
+| src\traductor\components\Chat                                                                    |          5 |        128 |          4 |         22 |        154 |
+| src\traductor\components\Navegation                                                              |          1 |         61 |          2 |          8 |         71 |
+| src\traductor\components\SideInbox                                                               |          5 |        137 |          8 |         20 |        165 |
+| src\traductor\layout                                                                             |          3 |         66 |         80 |         19 |        165 |
+| src\traductor\pages                                                                              |          5 |        176 |          0 |         34 |        210 |
+| src\traductor\routes                                                                             |          1 |         11 |          0 |          2 |         13 |
+| src\ui                                                                                           |          2 |         21 |          0 |          4 |         25 |
+| src\ui (Files)                                                                                   |          1 |          1 |          0 |          0 |          1 |
+| src\ui\components                                                                                |          1 |         20 |          0 |          4 |         24 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                         | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| d:\Software 1\Proyecto Final\traductor-IA\.env                                                   | Properties     |          1 |          0 |          0 |          1 |
+| d:\Software 1\Proyecto Final\traductor-IA\.eslintrc.cjs                                          | JavaScript     |         20 |          0 |          1 |         21 |
+| d:\Software 1\Proyecto Final\traductor-IA\README.md                                              | Markdown       |          5 |          0 |          4 |          9 |
+| d:\Software 1\Proyecto Final\traductor-IA\index.html                                             | HTML           |         24 |          0 |          2 |         26 |
+| d:\Software 1\Proyecto Final\traductor-IA\package-lock.json                                      | JSON           |      4,789 |          0 |          1 |      4,790 |
+| d:\Software 1\Proyecto Final\traductor-IA\package.json                                           | JSON           |         38 |          0 |          1 |         39 |
+| d:\Software 1\Proyecto Final\traductor-IA\public\vite.svg                                        | XML            |          1 |          0 |          0 |          1 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\TraductorApp.jsx                                   | JavaScript JSX |         11 |          4 |          2 |         17 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\api\index.js                                       | JavaScript     |          1 |          0 |          0 |          1 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\api\traslateApi.js                                 | JavaScript     |         14 |          1 |          5 |         20 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\auth\context\AuthContext.jsx                       | JavaScript JSX |         17 |          0 |          7 |         24 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\auth\layout\AuthLayout.jsx                         | JavaScript JSX |         35 |          1 |          1 |         37 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\auth\pages\LoginPage.jsx                           | JavaScript JSX |         59 |          2 |         14 |         75 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\auth\pages\RegisterPage.jsx                        | JavaScript JSX |        109 |          2 |         16 |        127 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\auth\pages\index.js                                | JavaScript     |          2 |          0 |          0 |          2 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\auth\routes\AuthRoutes.jsx                         | JavaScript JSX |          8 |          3 |          1 |         12 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\context\SocketContext.jsx                          | JavaScript JSX |         23 |          0 |          8 |         31 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\css\chat.css                                       | CSS            |        204 |          0 |         40 |        244 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\helpers\getEnvVariables.js                         | JavaScript     |          6 |          0 |          1 |          7 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\helpers\index.js                                   | JavaScript     |          1 |          0 |          0 |          1 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\hook\index.js                                      | JavaScript     |          3 |          0 |          0 |          3 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\hook\useAuthStore.js                               | JavaScript     |         61 |         22 |          9 |         92 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\hook\useForm.js                                    | JavaScript     |         43 |          0 |         11 |         54 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\hook\useSocket.js                                  | JavaScript     |         28 |          0 |          8 |         36 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\index.css                                          | CSS            |          3 |          0 |          0 |          3 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\main.jsx                                           | JavaScript JSX |         16 |          0 |          2 |         18 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\router\AppRouter.jsx                               | JavaScript JSX |         33 |          9 |          7 |         49 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\store\auth\authSlice.js                            | JavaScript     |         30 |          0 |          2 |         32 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\store\auth\index.js                                | JavaScript     |          1 |          0 |          0 |          1 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\store\index.js                                     | JavaScript     |          1 |          0 |          0 |          1 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\store\store.js                                     | JavaScript     |          7 |          1 |          2 |         10 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\theme\AppTheme.jsx                                 | JavaScript JSX |         11 |          0 |          2 |         13 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\theme\colorTheme.js                                | JavaScript     |         29 |          0 |          1 |         30 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\theme\index.js                                     | JavaScript     |          2 |          0 |          0 |          2 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\ChatSelect.jsx                | JavaScript JSX |         13 |          0 |          3 |         16 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\IncomingMessage.jsx      | JavaScript JSX |         17 |          0 |          2 |         19 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\Messages.jsx             | JavaScript JSX |         65 |          2 |         12 |         79 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\OutgoingMessage.jsx      | JavaScript JSX |         12 |          0 |          2 |         14 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\SendMessage.jsx          | JavaScript JSX |         30 |          2 |          6 |         38 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Chat\index.js                 | JavaScript     |          4 |          0 |          0 |          4 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\LongMenu.jsx                  | JavaScript JSX |         59 |          1 |          5 |         65 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\NavBar.jsx                    | JavaScript JSX |         21 |          0 |          4 |         25 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\Navegation\NavegationMenu.jsx | JavaScript JSX |         61 |          2 |          8 |         71 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\InboxPeople.jsx     | JavaScript JSX |         10 |          0 |          4 |         14 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\Searchbox.jsx       | JavaScript JSX |         36 |          5 |          5 |         46 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\SideBar.jsx         | JavaScript JSX |         37 |          1 |          8 |         46 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\SidebarChat.jsx     | JavaScript JSX |         50 |          2 |          3 |         55 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\SideInbox\index.js            | JavaScript     |          4 |          0 |          0 |          4 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\components\index.js                      | JavaScript     |          4 |          0 |          0 |          4 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\index.js                                 | JavaScript     |          4 |          0 |          1 |          5 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\layout\AdminLayout.jsx                   | JavaScript JSX |         43 |         80 |         15 |        138 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\layout\TraductorLayout.jsx               | JavaScript JSX |         21 |          0 |          4 |         25 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\layout\index.js                          | JavaScript     |          2 |          0 |          0 |          2 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\AdminPage.jsx                      | JavaScript JSX |         10 |          0 |          2 |         12 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\PaymentPage.jsx                    | JavaScript JSX |         86 |          0 |         21 |        107 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\TraductorPage.jsx                  | JavaScript JSX |         10 |          0 |          3 |         13 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\UsersPage.jsx                      | JavaScript JSX |         66 |          0 |          8 |         74 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\pages\index.js                           | JavaScript     |          4 |          0 |          0 |          4 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\traductor\routes\TraductorRoutes.jsx               | JavaScript JSX |         11 |          0 |          2 |         13 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\ui\components\CheckingAuth.jsx                     | JavaScript JSX |         20 |          0 |          4 |         24 |
+| d:\Software 1\Proyecto Final\traductor-IA\src\ui\index.js                                        | JavaScript     |          1 |          0 |          0 |          1 |
+| d:\Software 1\Proyecto Final\traductor-IA\vite.config.js                                         | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                                                            |                |      6,342 |        141 |        272 |      6,755 |
++--------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
