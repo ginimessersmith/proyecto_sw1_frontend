@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import PropTypes from 'prop-types';
 
 async function esBlob(url) {
   try {
@@ -7,9 +8,9 @@ async function esBlob(url) {
     // Si no hay errores, la URL probablemente representa un Blob
     console.log('Es un Blob:', blob.type);
     console.log(blob.type === "text/html")
-    if(blob.type == "audio/webm"){
-      return  <audio src={url} controls></audio>;
-    }else if(blob.type === "text/html"){
+    if (blob.type == "audio/webm") {
+      return <audio src={url} controls></audio>;
+    } else if (blob.type === "text/html") {
       return <p>{`${url}`}</p>
     }
   } catch (error) {
@@ -19,13 +20,15 @@ async function esBlob(url) {
   }
 }
 
-export const OutgoingMessage = ({mensaje}) => {
-
+export const OutgoingMessage = ({ mensaje, fecha, hora }) => {
   const [contenido, setContenido] = useState(null);
+
+  console.log("Mensaje Outgoing: ", mensaje);
 
   useEffect(() => {
     const obtenerContenido = async () => {
       const resultado = await esBlob(mensaje);
+      console.log("Resultado Outgoing: ", resultado);
       setContenido(resultado);
     };
 
@@ -34,10 +37,17 @@ export const OutgoingMessage = ({mensaje}) => {
 
   return (
     <div className="outgoing_msg">
-        <div className="sent_msg">
-            {contenido}
-            <span className="time_date"> 11:01 AM | June 9</span>
-        </div>
+      <div className="sent_msg">
+        {contenido}
+        <span className="time_date"> {fecha}| {hora && typeof hora !== 'string' ? hora.toString().substring(0, 5) : hora}
+        </span>
+      </div>
     </div>
   )
+}
+
+OutgoingMessage.propTypes = {
+  mensaje: PropTypes.string.isRequired,
+  fecha: PropTypes.string.isRequired,
+  hora: PropTypes.string.isRequired,
 }
