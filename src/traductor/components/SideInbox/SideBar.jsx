@@ -10,7 +10,7 @@ export const SideBar = ({onChatSelected}) => {
   const obtenerChats = async () => {
     const {data} = await traslateApi.get(`/chat/chat_list_uid_usuario/${localStorage.getItem('uid')}`) 
     setChats(data);
-    console.log(data);
+    console.log("Chats List: ", data);
   }
 
   useEffect(() => {
